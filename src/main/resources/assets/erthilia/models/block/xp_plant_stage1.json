@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "erthilia:blocks/xp_plant_stage_1"
+    }
+}

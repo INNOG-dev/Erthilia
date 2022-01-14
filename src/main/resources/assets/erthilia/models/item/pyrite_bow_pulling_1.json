@@ -1,0 +1,6 @@
+{
+    "parent": "erthilia:item/pyrite_bow",
+    "textures": {
+        "layer0": "erthilia:items/pyrite_bow_pulling_1"
+    }
+}

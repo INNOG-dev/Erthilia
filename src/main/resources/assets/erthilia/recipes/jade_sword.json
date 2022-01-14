@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"J",
+	"J",
+	"S"
+  ],
+  "key": {
+    "J": {
+      "item": "erthilia:jade"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "erthilia:jade_sword"
+  }
+}

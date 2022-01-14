@@ -1,0 +1,16 @@
+[
+{
+  "modid": "erthiliamod",
+  "name": "Erthilia Mod",
+  "description": "Created by KarmaOwner",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "atonha.fr",
+  "updateUrl": "",
+  "authorList": ["KarmaOwner"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

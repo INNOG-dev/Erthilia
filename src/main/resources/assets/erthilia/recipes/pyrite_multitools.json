@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"JBJ",
+	"JTJ",
+	" T "
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "J": {
+      "item": "erthilia:pyrite"
+    },
+    "B": {
+      "item": "erthilia:pyrite_block"
+    }
+  },
+  "result": {
+    "item": "erthilia:pyrite_multitools",
+    "count": 1
+  }
+}

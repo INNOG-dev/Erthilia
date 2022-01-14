@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "erthilia:jade_ladder" },
+        "facing=east":  { "model": "erthilia:jade_ladder", "y": 90 },
+        "facing=south": { "model": "erthilia:jade_ladder", "y": 180 },
+        "facing=west":  { "model": "erthilia:jade_ladder", "y": 270 }
+    }
+}

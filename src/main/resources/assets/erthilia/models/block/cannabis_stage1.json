@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "erthilia:blocks/cannabis_stage_1"
+    }
+}

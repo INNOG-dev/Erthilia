@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"J J",
+	"JJJ",
+	"J J"
+  ],
+  "key": {
+    "J": {
+      "item": "erthilia:jade"
+    }
+  },
+  "result": {
+    "item": "erthilia:jade_ladder",
+    "count": 4
+  }
+}

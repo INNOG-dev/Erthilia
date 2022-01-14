@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	" PT",
+	"PCP",
+	"TP "
+  ],
+  "key": {
+    "P": {
+      "item": "erthilia:rolling_paper"
+    },
+    "T": {
+      "item": "erthilia:tabacco_leaf"
+    },
+    "C": {
+      "item": "erthilia:cannabis_leaf"
+    }
+  },
+  "result": {
+    "item": "erthilia:join"
+  }
+}

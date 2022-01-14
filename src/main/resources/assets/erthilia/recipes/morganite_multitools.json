@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"JBJ",
+	"JTJ",
+	" T "
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "J": {
+      "item": "erthilia:morganite"
+    },
+    "B": {
+      "item": "erthilia:morganite_block"
+    }
+  },
+  "result": {
+    "item": "erthilia:morganite_multitools"
+  }
+}

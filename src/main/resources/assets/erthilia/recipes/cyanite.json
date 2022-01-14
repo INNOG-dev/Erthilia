@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "erthilia:cyanite_block"
+    }
+  ],
+  "result": {
+    "item": "erthilia:cyanite",
+    "count": 9
+  }
+}

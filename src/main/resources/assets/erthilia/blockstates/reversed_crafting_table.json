@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,render_model=true": { "model": "erthilia:reversed_crafting_table" },
+        "facing=east,render_model=true":  { "model": "erthilia:reversed_crafting_table", "y": 90 },
+        "facing=south,render_model=true": { "model": "erthilia:reversed_crafting_table", "y": 180 },
+        "facing=west,render_model=true":  { "model": "erthilia:reversed_crafting_table", "y": 270 },
+        "facing=north,render_model=false": { "model": "erthilia:reversed_crafting_table" },
+        "facing=east,render_model=false":  { "model": "erthilia:reversed_crafting_table", "y": 90 },
+        "facing=south,render_model=false": { "model": "erthilia:reversed_crafting_table", "y": 180 },
+        "facing=west,render_model=false":  { "model": "erthilia:reversed_crafting_table", "y": 270 }
+    }
+}

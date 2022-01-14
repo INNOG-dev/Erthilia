@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "erthilia:pyrite_block"
+    }
+  ],
+  "result": {
+    "item": "erthilia:pyrite",
+    "count": 9
+  }
+}

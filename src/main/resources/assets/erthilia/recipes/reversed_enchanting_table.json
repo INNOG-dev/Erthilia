@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"CBC",
+	"BEB",
+	"CBC"
+  ],
+  "key": {
+    "C": {
+      "item": "erthilia:citrine"
+    },
+    "B": {
+      "item": "erthilia:citrine_block"
+    },
+    "E": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "erthilia:reversed_enchanting_table"
+  }
+}

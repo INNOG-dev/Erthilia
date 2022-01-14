@@ -1,0 +1,6 @@
+{
+    "parent": "erthilia:item/jade_bow",
+    "textures": {
+        "layer0": "erthilia:items/jade_bow_pulling_2"
+    }
+}

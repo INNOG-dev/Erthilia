@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"JBJ",
+	"JTJ",
+	" T "
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "J": {
+      "item": "erthilia:jade"
+    },
+    "B": {
+      "item": "erthilia:jade_block"
+    }
+  },
+  "result": {
+    "item": "erthilia:jade_multitools"
+  }
+}

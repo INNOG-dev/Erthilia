@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "age=0": { "model": "erthilia:cannabis_stage0" },
+        "age=1": { "model": "erthilia:cannabis_stage1" },
+        "age=2": { "model": "erthilia:cannabis_stage2" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "erthilia:blocks/jade_furnace_top",
+        "front": "erthilia:blocks/jade_furnace_front_on",
+        "side": "erthilia:blocks/jade_furnace_side"
+    }
+}

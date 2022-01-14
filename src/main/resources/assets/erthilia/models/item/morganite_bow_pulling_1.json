@@ -1,0 +1,6 @@
+{
+    "parent": "erthilia:item/morganite_bow",
+    "textures": {
+        "layer0": "erthilia:items/morganite_bow_pulling_1"
+    }
+}

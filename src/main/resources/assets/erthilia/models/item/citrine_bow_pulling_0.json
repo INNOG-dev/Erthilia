@@ -1,0 +1,6 @@
+{
+    "parent": "erthilia:item/citrine_bow",
+    "textures": {
+        "layer0": "erthilia:items/citrine_bow_pulling_0"
+    }
+}

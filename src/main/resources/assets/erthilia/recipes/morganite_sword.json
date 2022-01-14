@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"M",
+	"M",
+	"S"
+  ],
+  "key": {
+    "M": {
+      "item": "erthilia:morganite"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "erthilia:morganite_sword"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "erthilia:jade_furnace" },
+        "facing=south": { "model": "erthilia:jade_furnace", "y": 180 },
+        "facing=west":  { "model": "erthilia:jade_furnace", "y": 270 },
+        "facing=east":  { "model": "erthilia:jade_furnace", "y": 90 }
+    }
+}

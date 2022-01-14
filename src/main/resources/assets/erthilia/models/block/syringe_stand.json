@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "erthilia:blocks/syringe_stand (1)"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"CMC",
+	"MTM",
+	"CMC"
+  ],
+  "key": {
+    "C": {
+      "item": "erthilia:citrine"
+    },
+    "M": {
+      "item": "erthilia:morganite_block"
+    },
+    "T": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "result": {
+    "item": "erthilia:reversed_crafting_table"
+  }
+}

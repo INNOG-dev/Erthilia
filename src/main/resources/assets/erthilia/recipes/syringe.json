@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"N",
+	"I",
+	"S"
+  ],
+  "key": {
+    "N": {
+      "item": "erthilia:needle"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "erthilia:syringe_vial"
+    }
+  },
+  "result": {
+    "item": "erthilia:empty_syringe"
+  }
+}

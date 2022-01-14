@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,render_model=true": { "model": "erthilia:syringe_stand" },
+        "facing=east,render_model=true":  { "model": "erthilia:syringe_stand", "y": 90 },
+        "facing=south,render_model=true": { "model": "erthilia:syringe_stand", "y": 180 },
+        "facing=west,render_model=true":  { "model": "erthilia:syringe_stand", "y": 270 },
+        "facing=north,render_model=false": { "model": "erthilia:syringe_stand" },
+        "facing=east,render_model=false":  { "model": "erthilia:syringe_stand", "y": 90 },
+        "facing=south,render_model=false": { "model": "erthilia:syringe_stand", "y": 180 },
+        "facing=west,render_model=false":  { "model": "erthilia:syringe_stand", "y": 270 }
+    }
+}

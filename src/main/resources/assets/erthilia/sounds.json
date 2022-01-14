@@ -1,0 +1,44 @@
+{
+    "dragon_scream": {
+        "category": "hostile",
+        "sounds": [{
+            "name": "erthilia:dragon_roar",
+            "stream": false
+        }]
+    },
+    "dragon_hurt": {
+        "category": "hostile",
+        "sounds": [{
+            "name": "erthilia:dragon_hurt",
+            "stream": false
+        }]
+    },
+    "dragon_death": {
+        "category": "hostile",
+        "sounds": [{
+            "name": "erthilia:dragon_death",
+            "stream": false
+        }]
+    },
+    "dragon_wings": {
+        "category": "hostile",
+        "sounds": [{
+            "name": "erthilia:dragon_wing",
+            "stream": false
+        }]
+    },
+    "smoking_state_0": {
+        "category": "player",
+        "sounds": [{
+            "name": "erthilia:smoking_state_0",
+            "stream": false
+        }]
+    },
+    "smoking_state_1": {
+        "category": "player",
+        "sounds": [{
+            "name": "erthilia:smoking_state_1",
+            "stream": false
+        }]
+    }                      
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "erthilia:blocks/reversed_crafting_table"
+    }
+}

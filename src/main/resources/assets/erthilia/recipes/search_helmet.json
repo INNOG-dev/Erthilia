@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+	"CMC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:leather"
+    },
+    "M": {
+      "item": "erthilia:morganite"
+    }
+  },
+  "result": {
+    "item": "erthilia:search_helmet"
+  }
+}

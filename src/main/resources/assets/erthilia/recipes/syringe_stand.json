@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"BGB",
+	"CMC",
+	"SSS"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:brewing_stand"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "C": {
+      "item": "erthilia:cyanite_block"
+    },
+    "M": {
+      "item": "erthilia:morganite_block"
+    },
+    "S": {
+      "item": "minecraft:stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "erthilia:syringe_stand"
+  }
+}

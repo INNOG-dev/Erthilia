@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"U",
+	"C",
+	"S"
+  ],
+  "key": {
+    "U": {
+      "item": "erthilia:unicorn_horn"
+    },
+    "C": {
+      "item": "erthilia:citrine_block"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "erthilia:spear"
+  }
+}

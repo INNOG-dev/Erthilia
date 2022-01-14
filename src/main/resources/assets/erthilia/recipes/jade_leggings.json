@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"JJJ",
+	"J J",
+	"J J"
+  ],
+  "key": {
+    "J": {
+      "item": "erthilia:jade"
+    }
+  },
+  "result": {
+    "item": "erthilia:jade_leggings"
+  }
+}

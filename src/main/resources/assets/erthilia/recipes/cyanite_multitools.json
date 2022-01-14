@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"JBJ",
+	"JTJ",
+	" T "
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "J": {
+      "item": "erthilia:cyanite"
+    },
+    "B": {
+      "item": "erthilia:cyanite_block"
+    }
+  },
+  "result": {
+    "item": "erthilia:cyanite_multitools"
+  }
+}

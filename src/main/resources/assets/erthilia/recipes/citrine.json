@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "erthilia:citrine_block"
+    }
+  ],
+  "result": {
+    "item": "erthilia:citrine",
+    "count": 9
+  }
+}
